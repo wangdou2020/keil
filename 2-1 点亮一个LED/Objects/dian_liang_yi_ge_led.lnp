@@ -1,0 +1,3 @@
+".\Objects\main.obj" 
+TO ".\Objects\dian_liang_yi_ge_led" 
+PRINT(".\Listings\dian_liang_yi_ge_led.m51") RAMSIZE(256) 

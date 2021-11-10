@@ -1,0 +1,3 @@
+".\Objects\main.obj" 
+TO ".\Objects\liu_shui_deng" 
+PRINT(".\Listings\liu_shui_deng.m51") RAMSIZE(256) 
